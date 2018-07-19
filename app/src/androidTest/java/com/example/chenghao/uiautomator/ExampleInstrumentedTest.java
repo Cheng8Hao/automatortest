@@ -24,6 +24,7 @@ public class ExampleInstrumentedTest {
         assertEquals("com.example.chenghao.uiautomator", appContext.getPackageName());
 
         //test
-        //test2
+        //test3
+
     }
 }
